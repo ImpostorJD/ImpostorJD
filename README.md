@@ -23,5 +23,5 @@ You can contact me via the following platform/s:
 ## Statistics
 | **STATS** | **TOP LANGUAGES**  |
 |-----|--------------|
-|[![Stats](https://github-readme-stats.vercel.app/api?username=JohnDanielTejero&theme=nord)](https://github.com/JohnDanielTejero/JohnDanielTejero)|[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnDanielTejero&layout=compact&langs_count=5&theme=radical)](https://github.com/JohnDanielTejero/JohnDanielTejero)|
+|[![Stats](https://github-readme-stats.vercel.app/api?username=JohnDanielTejero&theme=nord)](https://github.com/ImpostorJD/JohnDanielTejero)|[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnDanielTejero&layout=compact&langs_count=5&theme=radical)](https://github.com/ImpostorJD/JohnDanielTejero)|
 
