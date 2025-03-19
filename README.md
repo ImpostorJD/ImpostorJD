@@ -4,6 +4,8 @@ I am an aspiring fullstack developer.
 
 <hr>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ImpostorJD&repo=jdtportfolio&theme=dark)](https://jdtportfolio.vercel.app)
+
 ## Contacts:
 You can contact me via the following platform/s: 
 
