@@ -1,16 +1,3 @@
-# OVERVIEW
-Hi, I am John Daniel Tejero, a student undertaking Bachelor of Science in Information Technology at Baliuag University. 
-I am an aspiring fullstack developer.
-
-<hr>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ImpostorJD&repo=jdtportfolio&theme=dark)](https://jdtportfolio.vercel.app)
-
-## Contacts:
-You can contact me via the following platform/s: 
-
-[![Language](https://skillicons.dev/icons?i=gmail&theme=dark)]([https://skillicons.dev](johndanieltejero23@gmail.com)) 
-<hr>    
 
 ## Tehnologies I am Familiar With:
 
